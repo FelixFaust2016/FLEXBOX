@@ -73,7 +73,7 @@
 }
 .right-footer {
     width: 800px;
-    margin-top: -5px;
+    margin-top: -10px;
 }
 .left-footer div {
     width: 100%;
@@ -139,6 +139,8 @@
 }
 .top-footer div:last-of-type {
     width: 40px;
+    color: white;
+    background: #000;
 }
 .bottom-footer {
     display: flex;
